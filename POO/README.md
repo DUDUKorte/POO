@@ -8,4 +8,4 @@
 ###  - `3º Técnico em Informática`
 ---
 ### Notebook Teste - AtvTeste
->[link da atividade](https://github.com/DUDUKorte/POO/edit/main/README.md)
+>[link da atividade](https://github.com/DUDUKorte/POO)
