@@ -5,7 +5,6 @@
  * Professor: Nelson Bellincanta
  * Data da criação: 30/03/2022
  */
-
 import java.util.Scanner; //importa biblioteca do scanner para receber valores do usuário
 
 public class Atv01{
