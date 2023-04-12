@@ -1,5 +1,5 @@
 
-<h1 align = "center">Atividades POO - Eduardo K.</h1>
+<h1 align = "center">Atividades POO - Eduardo N.K.</h1>
 
 > [Atv01](https://github.com/DUDUKorte/POO/tree/main/POO/Atividades/Notebooks/Atv01)
 <hr>
