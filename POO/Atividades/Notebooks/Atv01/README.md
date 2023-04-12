@@ -3,15 +3,10 @@
 ## Notebook - Atv01
 
 > importei a biblioteca scanner
-
 > Criei as classes e delcarei o Scanner
-
 > declarei as variável que iriam receber as entradas do usuário
-
 > realizei a soma das variáveis em uma variável float soma
-
 > fechei o scanner
-
 > Exibi o resultado na tela
 
   <hr>
