@@ -7,13 +7,13 @@
 > [Atv02](https://github.com/DUDUKorte/POO/tree/main/POO/Atividades/Notebooks/Atv02)
 <hr>
 
->[Atv03](link)
+>[Atv03](https://github.com/DUDUKorte/POO/tree/main/POO/Atividades/Notebooks/Atv03)
 <hr>
 
->[Atv04](link)
+>[Atv04](https://github.com/DUDUKorte/POO/tree/main/POO/Atividades/Notebooks/Atv04)
 <hr>
 
->[Atv05](link)
+>[Atv05](https://github.com/DUDUKorte/POO/tree/main/POO/Atividades/Notebooks/Atv05)
 <hr>
 
->[Atv06](link)
+>[Atv06](https://github.com/DUDUKorte/POO/tree/main/POO/Atividades/Notebooks/Atv06)
