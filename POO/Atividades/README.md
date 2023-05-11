@@ -17,3 +17,9 @@
 <hr>
 
 >[Atv06](https://github.com/DUDUKorte/POO/tree/main/POO/Atividades/Notebooks/Atv06)
+
+>[Atv07](https://github.com/DUDUKorte/POO/tree/main/POO/Atividades/Notebooks/Atv07)
+<hr>
+
+>[Atv08](https://github.com/DUDUKorte/POO/tree/main/POO/Atividades/Notebooks/Atv08)
+<hr>
