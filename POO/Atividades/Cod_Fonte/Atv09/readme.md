@@ -4,8 +4,16 @@
 
 > Passos da atividade
 
-  <hr>
+  <hr>Primeiro eu declarei o método principal e inicializei um array cm 10 números
 
+  <hr>Criei o método para imprimir os números da tela, com o array que ele utilizará como parâmetro
+
+  <hr>Coloquei um for para o item i percorrer a lista de núemros e concatenar esses números em uma string de saída, depois mostrei essa string de saída na tela
+
+  <hr>Criei o método para somar os números e coloquei, novamente, um array de int como parâmetro, realizei a soma utilizando um for que somava á uma variável fora do for
+
+  <hr>Por fim, chamei as funções com os parâmetros necessários no método principal
+ 
 > Código em java:
 
 ``` java
