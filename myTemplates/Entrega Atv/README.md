@@ -8,7 +8,7 @@
 
 > Código em java:
 
-```
+``` java
 /*
 * IFPR - Campus Cascavel
 
