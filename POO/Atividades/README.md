@@ -19,10 +19,10 @@
 >[Atv06](https://github.com/DUDUKorte/POO/tree/main/POO/Atividades/Notebooks/Atv06)
 <hr>
 
->[Atv07](https://github.com/DUDUKorte/POO/tree/main/POO/Atividades/Notebooks/Atv07)
+>[Atv07](https://github.com/DUDUKorte/POO/blob/main/POO/Atividades/Cod_Fonte/Atv07/)
 <hr>
 
->[Atv08](https://github.com/DUDUKorte/POO/tree/main/POO/Atividades/Notebooks/Atv08)
+>[Atv08](https://github.com/DUDUKorte/POO/tree/main/POO/Atividades/Cod_Fonte/Atv08)
 <hr>
 
 >[Atv09](https://github.com/DUDUKorte/POO/tree/main/POO/Atividades/Cod_Fonte/Atv09)
